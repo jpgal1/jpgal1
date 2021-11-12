@@ -1,0 +1,43 @@
+<HTML>
+<HEAD>
+</HEAD>
+<BODY 
+HOLA MUNDO <BR>
+<!DOCTYPE html>
+<html lang="en">
+
+<body style="background: rgb(46, 44, 145);">
+<p style="font-family: sans-serif; text-align: center; font-size: 24px;"> <h1> Fandom de naruto </h1> </p>
+<div style="font-family: sans-serif; text-align: center;">
+<h1>  Realmente te gusta naruto? </h1>
+<li>
+    Aqui unos tips para ser fans de naruto
+</li>
+
+</div>
+
+<ul>
+    <li>
+        Un fan de naruto no se baña 
+    </li>
+    <li>
+       un fan de naruto tiene todo el merchandaising de naruto
+    </li>
+    <li>
+
+      un fan de naruto se vio todas las series con relleno
+</li>
+<li>
+    un fan de naruto tiene como personaje favorito a jiraiya
+</li>
+
+
+<img SRC=https://c.tenor.com/NwnYvITo8m8AAAAd/jiraiya-introducing.gif
+width= "500px" high= "500px">
+<iframe width="560" height="315" src=https://c.tenor.com/aT15akmpipIAAAAC/naruto-uzumaki-sonriendo.gif frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</HTML>
+
+</ul>
+<p style="font-size: 42px; text-align: center;"> BIEN PAPA SOS UN CAPO </p>
+</body>
+</html>
